@@ -6,6 +6,8 @@ I Visit the following sites to learn more about Vim:
 
 * http://vimcasts.org
 
+add space
+
 h2. Credits 
 
 Realy appreciated to this great people
